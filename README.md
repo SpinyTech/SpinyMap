@@ -4,7 +4,7 @@ SpinyMap is a helpful library for displaying your custom maps in Android applica
 
 ## Requirements
 
-Fresco supports Android 4.0 (API 14) and later.
+SpinyMap supports Android 4.0 (API 14) and later.
 
 ## Using SpinyMap in your application
 
